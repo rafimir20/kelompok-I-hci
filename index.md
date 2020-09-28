@@ -1,5 +1,5 @@
-# Ilmu Komputer 2019, Universitas Negeri Jakarta
-## Kelompok I, Interaksi Manusia dan Komputer
+# Kelompok I HCI
+## Ilmu Komputer 2019, Universitas Negeri Jakarta
 
 ### Pengantar
 Kami dari kelompok I melampirkan link task 1 dan task 2 yang berada pada di bawah ini.
