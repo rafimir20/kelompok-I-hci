@@ -35,4 +35,4 @@ Results can be found at: [Nuclear Chernobyl Incident in Ukraine](https://github.
 ## Contributors
 * **Budiarta Eka Wijaya** - Ilmu Komputer 2019 UNJ - [Budiwijaya53](https://github.com/Budiwijaya53)
 * **Muhammad Raffi Athallah Miraza** - Ilmu Komputer UNJ 2019 - [rafimir20](https://github.com/rafimir20)
-* **Pramudio** - Ilmu Komputer UNJ 2019 - [Pramudio]()
+* **Pramudio** - Ilmu Komputer UNJ 2019 - [Pramudio](https://github.com/Pramudio-Ilkom)
