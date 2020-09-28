@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Ilmu Komputer 2019, UNJ
+## Repo Kelompok I, Interaksi Manusia dan Komputer
+
 
 You can use the [editor on GitHub](https://github.com/rafimir20/kelompok-L-imk/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
