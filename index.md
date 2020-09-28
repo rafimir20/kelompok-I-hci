@@ -25,13 +25,8 @@ Results can be found at: [Nuclear Chernobyl Incident in Ukraine](https://github.
   - What is designer philosophy during design process
   - Get copy to his/her design items
   - Ask whether he/she had a habit to consider control design (the interaction parts)
-  
-- [x] Interview result: [Interview](https://github.com/rafimir20/kelompok-I-hci/tree/Task-2)
 
-
-### Keterangan
-
-Kami melakukan wawancara dengan narasumber design expert yang dapat Anda lihat [disini]()
+* Kami melakukan wawancara dengan narasumber design expert yang dapat Anda lihat [disini](https://github.com/rafimir20/kelompok-I-hci/tree/Task-2)
 
 ### Contributors
 * **Budiarta Eka Wijaya** - Ilmu Komputer 2019 UNJ - [Budiwijaya53](https://github.com/Budiwijaya53)
