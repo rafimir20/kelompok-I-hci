@@ -9,3 +9,12 @@
 Kami dari kelompok I melampirkan link task 1 dan task 2 yang berada pada di bawah ini. Link juga dapat ditemukan pada [Github Pages kami](https://rafimir20.github.io/kelompok-L-imk/)."
 1. Tugas 1 kami berisi analisis kami terhadap kasus ledakan nuklir sernobil, kami telah menganalisis berbagai artikel dan menemukan bahwa kasus ini layak dituturkan. 
 2. Tugas 2 kami merupakan laporan mengenai wawancara dengan seorang profesional designer yang telah berpengalaman lebih dari 10 tahun serta bentuk mockup dari seorang expert.
+
+### Task 1
+- [x] Find similar incident in the past record
+- [x] Explain why the incident happened
+- [x] Explain the design error
+- [x] Provide suggestion to improve the design
+- [x] Create a UX mockup to improve the design
+
+Hasil dapat ditemukan di: [Nuclear Chernobyl Incident in Ukraine]()
