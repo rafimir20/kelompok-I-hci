@@ -18,13 +18,13 @@ Results can be found at: [Nuclear Chernobyl Incident in Ukraine](https://github.
 
 ### Task 2
 - [x] Interview an application designer (desktop/web/mobile) that have long term standing in UX design or have rich design portfolio
-- The goal of the second task is to identify the general principle in the UX design
-- Your job is to learned the general principle in UX design while verifying the second assumption through an interview:
-  - Years experience
-  - How many design made counted by apps
-  - What is designer philosophy during design process
-  - Get copy to his/her design items
-  - Ask whether he/she had a habit to consider control design (the interaction parts)
+1. The goal of the second task is to identify the general principle in the UX design
+2. Your job is to learned the general principle in UX design while verifying the second assumption through an interview:
+  1. Years experience
+  2. How many design made counted by apps
+  3. What is designer philosophy during design process
+  4. Get copy to his/her design items
+  5. Ask whether he/she had a habit to consider control design (the interaction parts)
 
 * Kami melakukan wawancara dengan narasumber design expert yang dapat Anda lihat [disini](https://github.com/rafimir20/kelompok-I-hci/tree/Task-2)
 
