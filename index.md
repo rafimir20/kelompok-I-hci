@@ -1,39 +1,41 @@
 # Ilmu Komputer 2019, Universitas Negeri Jakarta
-## Repo Kelompok I, Interaksi Manusia dan Komputer
+## Kelompok I, Interaksi Manusia dan Komputer
+
+### Pengantar
+Kami dari kelompok I melampirkan link task 1 dan task 2 yang berada pada di bawah ini. Link juga dapat ditemukan pada [Github Pages kami](https://rafimir20.github.io/kelompok-I-hci/)."
+1. Tugas 1 kami berisi analisis kami terhadap kasus ledakan nuklir sernobil, kami telah menganalisis berbagai artikel dan menemukan bahwa kasus ini layak dituturkan. 
+2. Tugas 2 kami merupakan laporan mengenai wawancara dengan seorang profesional designer yang telah berpengalaman lebih dari 10 tahun serta bentuk mockup dari seorang expert.
+
+### Task 1
+- [x] Find similar incident in the past record
+- [x] Explain why the incident happened
+- [x] Explain the design error
+- [x] Provide suggestion to improve the design
+- [x] Create a UX mockup to improve the design
+
+Results can be found at: [Nuclear Chernobyl Incident in Ukraine](https://github.com/rafimir20/kelompok-I-hci/tree/Task-1)
 
 
-You can use the [editor on GitHub](https://github.com/rafimir20/kelompok-L-imk/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Task 2
+- [x] Interview an application designer (desktop/web/mobile) that have long term standing in UX design or have rich design portfolio
+- The goal of the second task is to identify the general principle in the UX design
+- Your job is to learned the general principle in UX design while verifying the second assumption through an interview:
+  - Years experience
+  - How many design made counted by apps
+  - What is designer philosophy during design process
+  - Get copy to his/her design items
+  - Ask whether he/she had a habit to consider control design (the interaction parts)
+  
+- [x] Interview result: [Interview](https://github.com/rafimir20/kelompok-I-hci/tree/Task-2)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Keterangan
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Kami melakukan wawancara dengan narasumber design expert yang dapat Anda lihat [disini]()
 
-```markdown
-Syntax highlighted code block
+### Contributors
+* **Budiarta Eka Wijaya** - Ilmu Komputer 2019 UNJ - [Budiwijaya53](https://github.com/Budiwijaya53)
+* **Muhammad Raffi Athallah Miraza** - Ilmu Komputer UNJ 2019 - [rafimir20](https://github.com/rafimir20)
+* **Pramudio** - Ilmu Komputer UNJ 2019 - [Pramudio](https://github.com/Pramudio-Ilkom)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Akhir kata
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rafimir20/kelompok-L-imk/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Hak cipta Kelompok I, Ilmu Komputer UNJ Tahun 2019.
