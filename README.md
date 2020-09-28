@@ -4,6 +4,7 @@
 
 Interview yang sudah kami lakukan bersama Ka Budi Tanrim dilakukan pada hari Minggu, 20 September 2020 melalui platform Instagram. 
 ## About Budi Tanrim
+![Wajah Budi Tanrim](https://github.com/rafimir20/kelompok-I-hci/blob/Task-2/budi-tan-pict.png)
 Ka Budi sendiri merupakan seorang Head UI/UX Designer di Bukalapak yang telah memulai karirnya pada tahun 2010 sampai sekarang. 
 Seorang Expert Designer yang telah berpangalaman lebih dari 10 tahun dibidangnya.
 Pernah dipercaya Yahoo! untuk meredesign icon mereka dan juga dipercaya marvel apps untuk membuat icon.
