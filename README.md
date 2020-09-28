@@ -17,7 +17,7 @@ Kami dari kelompok I melampirkan link task 1 dan task 2 yang berada pada di bawa
 - [x] Provide suggestion to improve the design
 - [x] Create a UX mockup to improve the design
 
-Results can be found at: [Nuclear Chernobyl Incident in Ukraine]()
+Results can be found at: [Nuclear Chernobyl Incident in Ukraine](https://github.com/rafimir20/kelompok-I-hci/tree/Task-1)
 
 
 ### Task 2
@@ -30,8 +30,8 @@ Results can be found at: [Nuclear Chernobyl Incident in Ukraine]()
   - Get copy to his/her design items
   - Ask whether he/she had a habit to consider control design (the interaction parts)
   
-- [x] Interview result: [Interview]()
-- [ ] Recorded: [Videos]()
+- [x] Interview result: [Interview](https://github.com/rafimir20/kelompok-I-hci/tree/Task-2)
+- [ ] Recorded: Video
 
 ## Contributors
 * **Budiarta Eka Wijaya** - Ilmu Komputer 2019 UNJ - [Budiwijaya53](https://github.com/Budiwijaya53)
