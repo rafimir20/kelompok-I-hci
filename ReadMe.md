@@ -14,3 +14,9 @@ _"Kami menyadari bahwa kami, berdasarkan pengukuran dan pengamatan nyata, dapat 
 ## Solution of Reactor Design
 ![Gambar toggle auto off](https://github.com/rafimir20/kelompok-I-hci/blob/Task-1/autoOff-improved-v2.jpeg)
 Bentuk desain dari Katup Reaktor perlu ditambahkan sebuah tuas Auto off saat terjadi lompatan energi. Seperti cara kerja sekring lampu. Agar energi yang mengalir dapat tehenti. Sehingga potensi dari kecelakaan dapat dikurangi. 
+
+
+### Daftar Pustaka
+* Kesaksian penyintas tragedi Chernobyl: ['Saya melihat sendiri kehancurannya'](https://www.bbc.com/indonesia/majalah-48605251.amp)
+* Chernobyl Meledak: [Senjata Mematikan Manusia Memangsa Muka Sendiri](https://tirto.id/chernobyl-meledak-senjata-mematikan-manusia-memangsa-muka-sendiri-eT1c)
+* Batan.2020 [Fakta Peristiwa Kecelakaan PLTN Chernobyl](http://www.batan.go.id/index.php/id/publikasi-2/pressreleases/6474-fakta-peristiwa-kecelakaan-pltn-chernobyl)
