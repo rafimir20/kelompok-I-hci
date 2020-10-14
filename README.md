@@ -9,7 +9,7 @@
 Kami dari kelompok I melampirkan link Assigment 2, task 1 dan task 2 yang berada pada di bawah ini. Link juga dapat ditemukan pada [Repo kami](https://github.com/rafimir20/kelompok-I-hci/tree/hw2).
 
 ### Task 1
-For summary you can see
+For summary you can see [Here]()
 - [x] Activity Diagrams: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Activity%20Diagram.docx)
 - [x] Narration: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Cases%20Narration.docx)
 - [x] Use Cases: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Use%20Cases.docx)
