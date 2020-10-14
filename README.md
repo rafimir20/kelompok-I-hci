@@ -33,6 +33,14 @@ __Ogot isn't pleasant because__
 
 - Dikarenakan developer sedang sibuk dan tidak bersedia direkam wawancara, oleh karena itu kami memutuskan menggunakan format wawancara guna menggantikan rekaman 4th Day.
 
+## Developer profile
+
+Nama : Ego Sandi 
+Umur : 30 tahun
+Agama : Islam
+Alamat : Jalan Elang no 20, Kecamatan Baolan, Kabupaten Toli-toli, Sulawesi Tengah
+
+
 ## Contributors
 * **Budiarta Eka Wijaya** - Ilmu Komputer 2019 UNJ - [Budiwijaya53](https://github.com/Budiwijaya53)
 * **Muhammad Raffi Athallah Miraza** - Ilmu Komputer UNJ 2019 - [rafimir20](https://github.com/rafimir20)
