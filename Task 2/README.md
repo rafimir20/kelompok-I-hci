@@ -18,7 +18,7 @@
 
 **Selected design**
 
-[Choosen](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_1.jpeg)
+![Choosen](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_1.jpeg)
 
 
 
