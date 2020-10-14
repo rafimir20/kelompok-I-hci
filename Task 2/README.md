@@ -39,15 +39,20 @@ Tahap 4 :
 Ini merupakan tahap terakhir dari proyek design. Pada tahap ini hasil sketsa yang ada akan diberikan kepada developer aplikasi. Kita akan mendengarkan dengan seksama tanggapan dari sang developer, dan menjelaskan kepada developer dengan ramah dan jelas alasana mengapa kita membuat design sedemikian rupa 
 
 ## 4th Day: Showcase to Developer and listening to he's feedback
-
 Wawancara ini sebagai pengganti rekaman 4th Day.
 
-Mahasiswa : selamat pagi, maaf menganggu waktu bapak. Saya Budi mahasiswa dari Universitas Negeri Jakarta, saya mendapat Tugas Untuk Memperindah tampilan aplikasi bapak. Kami sudah membuat design terbaik kami. Dan salah satu persyaratan tugas kami yakni membutuhkan rekaman tanggapan bapak dari hasil design kami
+Mahasiswa : selamat pagi, maaf menganggu waktu bapak. Saya Budi mahasiswa dari Universitas Negeri Jakarta, saya mendapat Tugas Untuk Memperindah tampilan aplikasi bapak. Kami sudah membuat design terbaik kami. Dan salah satu persyaratan tugas kami yakni membutuhkan rekaman tanggapan bapak dari hasil design kami.
+
 Developer : Boleh kirimi hasil designnya terlebih dahulu?
+
 Mahasiswa  : Boleh pak.
-Developer : Saya sudah melihat hasil designya, lumayan menarik
+
+Developer : Saya sudah melihat hasil designya, lumayan menarik.
+
 Mahasiswa : Jadi kapan bisa memulai rekamanya?
+
 Developer : Maaf saya saat ini sedang sibuk mengurusi perijinan dan hal lain, designya lumayan bagustapi apakah design seperti itu sudah layak di pasar, hal itu masih memerlukan survey.
+
 Mahasiswa : oh iya terima kasih pak, maaf menganggu waktunya
 
 
