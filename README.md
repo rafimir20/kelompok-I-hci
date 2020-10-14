@@ -1,4 +1,4 @@
-# Kelompok L IMK
+# Kelompok I IMK
 
 ## Beranggotakan:
 * Budiarta Eka Wijaya 1313619018
