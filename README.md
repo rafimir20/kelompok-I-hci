@@ -29,7 +29,7 @@ __Ogot isn't pleasant__
 - [x] Mockup: [1st design](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_1.jpeg) and [2nd Design](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_2.jpeg)
 - [x] Selected Design [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_1.jpeg)
 - [x] Videos from 1st Day to 4th Day: [Videos](https://youtu.be/FkvbJcha8Ag)
-- [x] Interviewing Developer: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/Results%20of%20the%20developer%20interview.docx)
+- [x] Showcase to Developerr: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/Results%20of%20the%20developer%20interview.docx)
 
 - Dikarenakan developer sedang sibuk dan tidak bersedia direkam wawancara, oleh karena itu kami memutuskan menggunakan format wawancara guna menggantikan rekaman 4th Day.
 
