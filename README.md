@@ -8,7 +8,7 @@
 ### Pengantar
 Kami dari kelompok I melampirkan link Assigment 2, task 1 dan task 2 yang berada pada di bawah ini. Link juga dapat ditemukan pada [Repo kami](https://github.com/rafimir20/kelompok-I-hci/tree/hw2).
 
-### Task 1
+## Task 1
 __About__
 
 'Ogot' merupakan sebuah aplikasi ojol lokal yang berpusat di Sulawesi Tengah, yang baru beroperasi pertengahan tahun 2020. Ogot ini saat ini memiliki sekitar 13 driver aktif yang beroperasi tiap hari. Ogot merupakan aplikasi fresh besutan pak Ego Sandi yang memiliki lebioh dari seribu unduhan.
@@ -23,7 +23,7 @@ __Ogot isn't pleasant__
 - [x] Use Cases: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Use%20Cases.docx)
 
 
-### Task 2
+## Task 2
 **For summary you can see [here](https://github.com/rafimir20/kelompok-I-hci/tree/hw2/Task%202)**
 - [x] Sprint Design: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/Sprint%20Design.docx)
 - [x] Mockup: [1st design](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_1.jpeg) and [2nd Design](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_2.jpeg)
