@@ -25,8 +25,6 @@
 **Selected design**
 
 <p align="center">
-  
-  Selected design
   <img src="https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_1.jpeg">
   </p>
 
