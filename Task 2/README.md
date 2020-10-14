@@ -11,9 +11,15 @@
 
 
 **This 2 designs**
+1. First
+<p align="center">
+  <img src="https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_1.jpeg">
+  </p>
 
-1. ![First](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_1.jpeg)
-2. ![Second](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_2.jpeg)
+2. Second
+<p align="center">
+  <img src="https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_2.jpeg">
+  </p>
 
 
 **Selected design**
