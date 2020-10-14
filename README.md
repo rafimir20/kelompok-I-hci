@@ -17,14 +17,14 @@ __Ogot isn't pleasant__
 1. Tombol-tombol nya kebanyakan hyperlink bukan button
 2. Warna aplikasinya terlalu kontras akibatnya membuat mata cepat lelah
 
-**For summary you can see [Here]()
+**For summary you can see [Here]()**
 - [x] Activity Diagrams: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Activity%20Diagram.docx)
 - [x] Narration: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Cases%20Narration.docx)
 - [x] Use Cases: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Use%20Cases.docx)
 
 
 ### Task 2
-**For summary you can see [Here]()
+**For summary you can see [Here]()**
 - [x] Sprint Design: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/Sprint%20Design.docx)
 - [x] Mockup: [1st design](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_1.jpeg) and [2nd Design](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_2.jpeg)
 - [x] Selected Design [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_1.jpeg)
