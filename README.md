@@ -40,8 +40,11 @@ __Ogot isn't pleasant because__
   </p>
 
 Nama : Ego Sandi 
+
 Umur : 30 tahun
+
 Agama : Islam
+
 Alamat : Jalan Elang no 20, Kecamatan Baolan, Kabupaten Toli-toli, Sulawesi Tengah
 
 
