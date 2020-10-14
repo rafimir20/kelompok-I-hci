@@ -35,6 +35,10 @@ __Ogot isn't pleasant because__
 
 ## Developer profile
 
+<p align="center">
+  <img src="https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/dev_pict.jpeg">
+  </p>
+
 Nama : Ego Sandi 
 
 Umur : 30 tahun
