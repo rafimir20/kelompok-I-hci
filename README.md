@@ -10,13 +10,14 @@ Kami dari kelompok I melampirkan link Assigment 2, task 1 dan task 2 yang berada
 
 ### Task 1
 
-In task 1 report, this is where you put use case & activity diagram. From all use case items, Identify the key use case which define as key business process. Then elaborate in detail why you identify the use case as key business process. [Link]( )
+In task 1 report, this is where you put use case & activity diagram. From all use case items, Identify the key use case which define as key business process. Then elaborate in detail why you identify the use case as key business process. [Link](https://github.com/rafimir20/kelompok-I-hci/tree/hw2)
 
 
 ### Task 2
 
   
 - [x] Videos from 1st Day to 4th Day: [Videos](https://youtu.be/FkvbJcha8Ag)
+- [x] Interviewing Developer: [Open]()
 
 ## Contributors
 * **Budiarta Eka Wijaya** - Ilmu Komputer 2019 UNJ - [Budiwijaya53](https://github.com/Budiwijaya53)
