@@ -5,7 +5,7 @@
 * M Raffi Athallah Miraza 1313619026
 * Pramudio 1313619013
 
-### Pengantar
+## Pengantar
 Kami dari kelompok I melampirkan link Assigment 2, task 1 dan task 2 yang berada pada di bawah ini. Link juga dapat ditemukan pada [Repo kami](https://github.com/rafimir20/kelompok-I-hci/tree/hw2).
 
 ## Task 1
