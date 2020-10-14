@@ -21,6 +21,25 @@
 ![Choosen](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_1.jpeg)
 
 
+### Sprint Design
+
+![Sprint](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/sprint_date_time.png)
+
+Tahap 1 :
+Pada Tahap ini kita akan menentukan topik permasalahan. Kita akan mencari aplikasi yang kurang popular dan mengalami kendala dalam proses bisnisnya. Kita akan mencari dengan menggunakan semua koneksi yang ada dan media platform apapun guna mendapatkan hasil yang terbaik.
+
+Tahap 2 :
+Pada Tahap ini 2 orang dari team saling berkompetisi untuk membuat sketsa terbaik solusi dari permasalahan yang menimpa aplikasi tersebut. Masing-masing orang menggunakan aplikasi design yang sesuai kebutuhan dan mencari tambahan referensi seperti apakah model design yang kira-kira dapat menjadi solusi terbaik dari permasalahan yang menimpa aplikasi tersebut
+
+Tahap 3 : 
+Pada Tahap ini akan diajukan design mana yang akan dipilih. Pemilihan dilakukan dengan pemungutan suara terbanyak dari masing masing sketsa solusi tersebut. Pemilih adalah seorang yang cukup berkompoten agar mendapat hasil yang baik dan juga bukan merupakan anggota tim tersebut guna menghindari bias perspektif
+
+
+Tahap 4 :
+Ini merupakan tahap terakhir dari proyek design. Pada tahap ini hasil sketsa yang ada akan diberikan kepada developer aplikasi. Kita akan mendengarkan dengan seksama tanggapan dari sang developer, dan menjelaskan kepada developer dengan ramah dan jelas alasana mengapa kita membuat design sedemikian rupa 
+
+
+
 
 ## Contributors
 * **Budiarta Eka Wijaya** - Ilmu Komputer 2019 UNJ - [Budiwijaya53](https://github.com/Budiwijaya53)
