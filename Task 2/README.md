@@ -10,6 +10,12 @@
 [YouTube](https://youtu.be/FkvbJcha8Ag)
 
 
+**This 2 designs**
+
+![First](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_1.jpeg)
+![Second](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_2.jpeg)
+
+
 
 ## Contributors
 * **Budiarta Eka Wijaya** - Ilmu Komputer 2019 UNJ - [Budiwijaya53](https://github.com/Budiwijaya53)
