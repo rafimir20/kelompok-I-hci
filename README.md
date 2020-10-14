@@ -11,7 +11,8 @@ Kami dari kelompok I melampirkan link Assigment 2, task 1 dan task 2 yang berada
 ### Task 1
 **About**
 
-'Ogot' merupakan sebuah aplikasi ojol lokal yang berpusat sulawesi tengah, yang baru beroperasi pertengahan tahun 2020. ogot ini saat ini memiliki sekitar 13 driver aktif yang beroperasi tiap hari. ogot merupakan aplikasi fresh besutan pak Ego Sandi yang memiliki lebioh dari seribu unduhan
+'Ogot' merupakan sebuah aplikasi ojol lokal yang berpusat di Sulawesi Tengah, yang baru beroperasi pertengahan tahun 2020. Ogot ini saat ini memiliki sekitar 13 driver aktif yang beroperasi tiap hari. Ogot merupakan aplikasi fresh besutan pak Ego Sandi yang memiliki lebioh dari seribu unduhan.
+
 For summary you can see [Here]()
 - [x] Activity Diagrams: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Activity%20Diagram.docx)
 - [x] Narration: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Cases%20Narration.docx)
