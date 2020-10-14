@@ -47,6 +47,8 @@ Agama : Islam
 
 Alamat : Jalan Elang no 20, Kecamatan Baolan, Kabupaten Toli-toli, Sulawesi Tengah
 
+### Tools yang digunakan: GIMP
+
 
 ## Contributors
 * **Budiarta Eka Wijaya** - Ilmu Komputer 2019 UNJ - [Budiwijaya53](https://github.com/Budiwijaya53)
