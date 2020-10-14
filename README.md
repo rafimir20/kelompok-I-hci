@@ -17,7 +17,7 @@ __Ogot isn't pleasant__
 1. Tombol-tombol nya kebanyakan hyperlink bukan button
 2. Warna aplikasinya terlalu kontras akibatnya membuat mata cepat lelah
 
-**For summary you can see [Here]()**
+**For summary you can see [Here](https://github.com/rafimir20/kelompok-I-hci/tree/hw2/Task%201)**
 - [x] Activity Diagrams: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Activity%20Diagram.docx)
 - [x] Narration: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Cases%20Narration.docx)
 - [x] Use Cases: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Use%20Cases.docx)
