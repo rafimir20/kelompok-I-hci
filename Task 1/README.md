@@ -5,12 +5,12 @@
 * M Raffi Athallah Miraza 1313619026
 * Pramudio 1313619013
 
-**Activity Diagrams**
+1. **Activity Diagrams**
 
 ![Activity Diagrams](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/activ_diags.png)
 
 
-**Use Cases**
+2. **Use Cases**
 
 ![Use Case](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/use_cases.png)
 
