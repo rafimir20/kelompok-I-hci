@@ -14,6 +14,8 @@
 
 ![Use Case](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/use_cases.png)
 
+* Pada gambar sangat jelas sekali nampak hyperlink text yang sebagai button dan animasi aplikasi kurang responsif.
+
 
 ## Contributors
 * **Budiarta Eka Wijaya** - Ilmu Komputer 2019 UNJ - [Budiwijaya53](https://github.com/Budiwijaya53)
