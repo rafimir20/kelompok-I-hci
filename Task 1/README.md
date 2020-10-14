@@ -8,8 +8,9 @@
 ## Activity Diagrams and Use Cases
 
 1. **Activity Diagrams**
-
-![Activity Diagrams](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/activ_diags.png)
+<p align="center">
+  <img src="https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/activ_diags.png">
+       </p>
 
 
 2. **Use Cases**
