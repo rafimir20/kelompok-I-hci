@@ -17,7 +17,7 @@ In task 1 report, this is where you put use case & activity diagram. From all us
 
   
 - [x] Videos from 1st Day to 4th Day: [Videos](https://youtu.be/FkvbJcha8Ag)
-- [x] Interviewing Developer: [Open]()
+- [x] Interviewing Developer: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/Sprint%20Design.docx)
 
 ## Contributors
 * **Budiarta Eka Wijaya** - Ilmu Komputer 2019 UNJ - [Budiwijaya53](https://github.com/Budiwijaya53)
