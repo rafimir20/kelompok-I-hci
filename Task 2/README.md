@@ -38,7 +38,7 @@ Pada Tahap ini akan diajukan design mana yang akan dipilih. Pemilihan dilakukan 
 Tahap 4 :
 Ini merupakan tahap terakhir dari proyek design. Pada tahap ini hasil sketsa yang ada akan diberikan kepada developer aplikasi. Kita akan mendengarkan dengan seksama tanggapan dari sang developer, dan menjelaskan kepada developer dengan ramah dan jelas alasana mengapa kita membuat design sedemikian rupa 
 
-## 4th Day: Show case to Developer and listening to he's feedback
+## 4th Day: Showcase to Developer and listening to he's feedback
 
 Wawancara ini sebagai pengganti rekaman 4th Day.
 
