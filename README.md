@@ -11,7 +11,7 @@ Kami dari kelompok I melampirkan link Assigment 2, task 1 dan task 2 yang berada
 ## Task 1
 __About__
 
-'Ogot' merupakan sebuah aplikasi ojol lokal yang berpusat di Sulawesi Tengah, yang baru beroperasi pertengahan tahun 2020. Ogot ini saat ini memiliki sekitar 13 driver aktif yang beroperasi tiap hari. Ogot merupakan aplikasi fresh besutan pak Ego Sandi yang memiliki lebioh dari seribu unduhan.
+'Ogot' merupakan sebuah aplikasi ojol lokal yang berpusat di Sulawesi Tengah, yang baru beroperasi pertengahan tahun 2020. Ogot ini saat ini memiliki sekitar 13 driver aktif yang beroperasi tiap hari. Ogot merupakan aplikasi fresh besutan pak Ego Sandi yang memiliki lebih dari 1000 unduhan.
 
 __Ogot isn't pleasant because__
 1. Tombol-tombol nya kebanyakan hyperlink bukan button
@@ -36,15 +36,12 @@ __Ogot isn't pleasant because__
 ## Developer profile
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/dev_pict.jpeg">
+  <img src="https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/dev_pict.jpeg">
   </p>
 
 Nama : Ego Sandi 
-
 Umur : 30 tahun
-
 Agama : Islam
-
 Alamat : Jalan Elang no 20, Kecamatan Baolan, Kabupaten Toli-toli, Sulawesi Tengah
 
 
