@@ -16,7 +16,7 @@ For summary you can see [Here]()
 
 
 ### Task 2
-
+For summary you can see [Here]()
 - [x] Sprint Design: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/Sprint%20Design.docx)
 - [x] Mockup: [1st design](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_1.jpeg) and [2nd Design](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_2.jpeg)
 - [x] Selected Design [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_1.jpeg)
