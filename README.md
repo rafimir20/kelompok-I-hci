@@ -9,11 +9,11 @@
 Kami dari kelompok I melampirkan link Assigment 2, task 1 dan task 2 yang berada pada di bawah ini. Link juga dapat ditemukan pada [Repo kami](https://github.com/rafimir20/kelompok-I-hci/tree/hw2).
 
 ### Task 1
-**About**
+__About__
 
 'Ogot' merupakan sebuah aplikasi ojol lokal yang berpusat di Sulawesi Tengah, yang baru beroperasi pertengahan tahun 2020. Ogot ini saat ini memiliki sekitar 13 driver aktif yang beroperasi tiap hari. Ogot merupakan aplikasi fresh besutan pak Ego Sandi yang memiliki lebioh dari seribu unduhan.
 
-Ogot isn't pleasant
+__Ogot isn't pleasant__
 1. Tombol-tombol nya kebanyakan hyperlink bukan button
 2. Warna aplikasinya terlalu kontras akibatnya membuat mata cepat lelah
 
