@@ -5,6 +5,8 @@
 * M Raffi Athallah Miraza 1313619026
 * Pramudio 1313619013
 
+## Activity Diagrams and Use Cases
+
 1. **Activity Diagrams**
 
 ![Activity Diagrams](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/activ_diags.png)
@@ -13,6 +15,8 @@
 2. **Use Cases**
 
 ![Use Case](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/use_cases.png)
+
+* Pada gambar sangat jelas sekali nampak hyperlink text yang sebagai button dan animasi aplikasi kurang responsif.
 
 
 ## Contributors
