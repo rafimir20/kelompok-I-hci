@@ -7,7 +7,7 @@
 * Pramudio 1313619013
 
 ### Pengantar
-Kami dari kelompok I melampirkan link Assigment 3 yang berada pada di bawah ini.
+Kami dari kelompok I melampirkan link Assigment 3 yang berada pada di bawah ini. Link repo juga dapat ditemukan pada [Repo kami](https://github.com/rafimir20/kelompok-I-hci/tree/assignment3)
 
 ## Aplikasi Honey Moon
 __Honey Moon__
