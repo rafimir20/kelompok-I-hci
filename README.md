@@ -6,7 +6,7 @@
 * Pramudio 1313619013
 
 ## Pengantar
-Kami dari kelompok I melampirkan link Assigment 3, task 1 dan task 2 yang berada pada di bawah ini. Link juga dapat ditemukan pada [Repo kami](https://github.com/rafimir20/kelompok-I-hci/tree/hw2).
+Kami dari kelompok I melampirkan link Assigment 3 yang berada pada di bawah ini. Link juga dapat ditemukan pada [Repo kami](https://github.com/rafimir20/kelompok-I-hci/tree/assignment3).
 
 ## Task 1
 __About__
@@ -28,26 +28,11 @@ __Ogot isn't pleasant because__
 - [x] Sprint Design: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/Sprint%20Design.docx)
 - [x] Mockup: [1st design](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_1.jpeg) and [2nd Design](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_2.jpeg)
 - [x] Selected Design [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_1.jpeg)
-- [x] Videos from 1st Day to 4th Day: [Videos](https://youtu.be/FkvbJcha8Ag)
+- [x] Videos from 1st Day to 4th Day: [Videos](https://youtu.be/I7Y7K_AWm1E)
 - [x] Showcase to Developer: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/Results%20of%20the%20developer%20interview.docx)
 
 - Dikarenakan developer sedang sibuk dan tidak bersedia direkam wawancara, oleh karena itu kami memutuskan menggunakan format wawancara guna menggantikan rekaman 4th Day.
 
-## Developer profile
-
-<p align="center">
-  <img src="https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/dev_picture.jpeg">
-  </p>
-
-Nama : Ego Sandi 
-
-Umur : 30 tahun
-
-Agama : Islam
-
-Alamat : Jalan Elang no 20, Kecamatan Baolan, Kabupaten Toli-toli, Sulawesi Tengah
-
-### Tools yang digunakan: GIMP
 
 
 ## Contributors
