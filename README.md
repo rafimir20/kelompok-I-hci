@@ -22,6 +22,11 @@ Di Indonesia, pernikahan merupakan sesuatu yang sering terdengar, dipestakan, ba
 - [x] Presentasi: [Video](https://youtu.be/I7Y7K_AWm1E)
 
 
+##Design Apps
+
+1. <p align="center">
+	<img src="https://github.com/rafimir20/kelompok-I-hci/blob/assignment3/Final%20design/FinalDesign1.png">
+	</p>
 
 
 
