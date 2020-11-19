@@ -16,7 +16,7 @@ Merupakan aplikasi penyedia layanan pernikahan yang memudahkan calon pasangan su
 Di Indonesia, pernikahan merupakan sesuatu yang sering terdengar, dipestakan, bahkan dibanggakan. akan tetapi, sering sekali pernikahan itu hanya dipakai sebagai status sosial yang dilewatkan beberapa aspek penting dalam perencanaan dan pelaksanaan pernikahan.
 
 
-**For summary you can see
+**For summary you can see**
 - [x] Phase 1: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Activity%20Diagram.docx)
 - [x] Phase 2: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Cases%20Narration.docx)
 - [x] Presentasi: [Video](https://youtu.be/I7Y7K_AWm1E)
