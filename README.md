@@ -8,10 +8,13 @@
 ## Pengantar
 Kami dari kelompok I melampirkan link Assigment 3 yang berada pada di bawah ini. Link juga dapat ditemukan pada [Repo kami](https://github.com/rafimir20/kelompok-I-hci/tree/assignment3).
 
-## Task 1
-__About__
+## Aplikasi Honey Moon - 
+__Honey Moon__
 
-'Ogot' merupakan sebuah aplikasi ojol lokal yang berpusat di Sulawesi Tengah, yang baru beroperasi pertengahan tahun 2020. Ogot ini saat ini memiliki sekitar 13 driver aktif yang beroperasi tiap hari. Ogot merupakan aplikasi fresh besutan pak Ego Sandi yang memiliki lebih dari 1000 unduhan.
+Merupakan aplikasi penyedia layanan pernikahan yang memudahkan calon pasangan suami istri untuk acara pernikahan. 
+
+Di Indonesia, pernikahan merupakan sesuatu yang sering terdengar, dipestakan, bahkan dibanggakan. akan tetapi, sering sekali pernikahan itu hanya dipakai sebagai status sosial yang dilewatkan beberapa aspek penting dalam perencanaan dan pelaksanaan pernikahan.
+
 
 __Ogot isn't pleasant because__
 1. Tombol-tombol nya kebanyakan hyperlink bukan button
