@@ -51,6 +51,7 @@ Di Indonesia, pernikahan merupakan sesuatu yang sering terdengar, dipestakan, ba
 7. <p align="center">
 	<img src="https://github.com/rafimir20/kelompok-I-hci/blob/assignment3/Final%20design/FinalDesign7.png">
 	</p>
+	
 
 Di survey yang kita ambil dari 53 peserta, 40 orang berpendapat nikah itu mahal, 43 orang berpendapat bahwa mereka bingung bagaimana mempersiapkan pernikahan, 50 orang tertarik atas bagaimana perencana pernikahan mengelola pernikahan, 51 orang berpendapat menikah memerlukan banyak usaha. 
 Dari survey tersebut bisa disimpulkan bahwa sebagian besar peserta yang mengikuti survey belum siap atau tidak yakin untuk menikah.
