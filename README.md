@@ -17,13 +17,11 @@ Di Indonesia, pernikahan merupakan sesuatu yang sering terdengar, dipestakan, ba
 
 
 __Ogot isn't pleasant because__
-1. Tombol-tombol nya kebanyakan hyperlink bukan button
-2. Warna aplikasinya terlalu kontras akibatnya membuat mata cepat lelah
 
-**For summary you can see [here](https://github.com/rafimir20/kelompok-I-hci/tree/hw2/Task%201)**
-- [x] Activity Diagrams: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Activity%20Diagram.docx)
-- [x] Narration: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Cases%20Narration.docx)
-- [x] Use Cases: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Use%20Cases.docx)
+**For summary you can see
+- [x] Phase 1: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Activity%20Diagram.docx)
+- [x] Phase 2: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Cases%20Narration.docx)
+- [x] Presentasi: [Videos](https://youtu.be/I7Y7K_AWm1E)
 
 
 ## Task 2
@@ -31,7 +29,7 @@ __Ogot isn't pleasant because__
 - [x] Sprint Design: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/Sprint%20Design.docx)
 - [x] Mockup: [1st design](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_1.jpeg) and [2nd Design](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_2.jpeg)
 - [x] Selected Design [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/mockup_1.jpeg)
-- [x] Videos from 1st Day to 4th Day: [Videos](https://youtu.be/I7Y7K_AWm1E)
+- [x] Videos from 1st Day to 4th Day: 
 - [x] Showcase to Developer: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%202/Results%20of%20the%20developer%20interview.docx)
 
 - Dikarenakan developer sedang sibuk dan tidak bersedia direkam wawancara, oleh karena itu kami memutuskan menggunakan format wawancara guna menggantikan rekaman 4th Day.
