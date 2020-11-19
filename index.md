@@ -1,36 +1,62 @@
 # Kelompok I HCI
 ## Ilmu Komputer 2019, Universitas Negeri Jakarta
 
+## Kelompok I Beranggotakan:
+* Budiarta Eka Wijaya 1313619018
+* M Raffi Athallah Miraza 1313619026
+* Pramudio 1313619013
+
 ### Pengantar
-Kami dari kelompok I melampirkan link task 1 dan task 2 yang berada pada di bawah ini.
-1. Tugas 1 kami berisi analisis kami terhadap kasus ledakan nuklir sernobil, kami telah menganalisis berbagai artikel dan menemukan bahwa kasus ini layak dituturkan. 
-2. Tugas 2 kami merupakan laporan mengenai wawancara dengan seorang profesional designer yang telah berpengalaman lebih dari 10 tahun serta bentuk mockup dari seorang expert.
+Kami dari kelompok I melampirkan link Assigment 3 yang berada pada di bawah ini.
 
-### Task 1
-- [x] Find similar incident in the past record
-- [x] Explain why the incident happened
-- [x] Explain the design error
-- [x] Provide suggestion to improve the design
-- [x] Create a UX mockup to improve the design
+## Aplikasi Honey Moon
+__Honey Moon__
 
-Results can be found at: [Nuclear Chernobyl Incident in Ukraine](https://github.com/rafimir20/kelompok-I-hci/tree/Task-1)
+Merupakan aplikasi penyedia layanan pernikahan yang memudahkan calon pasangan suami istri untuk acara pernikahan. 
+
+Di Indonesia, pernikahan merupakan sesuatu yang sering terdengar, dipestakan, bahkan dibanggakan. akan tetapi, sering sekali pernikahan itu hanya dipakai sebagai status sosial yang dilewatkan beberapa aspek penting dalam perencanaan dan pelaksanaan pernikahan.
 
 
-### Task 2
-- [x] Interview an application designer (desktop/web/mobile) that have long term standing in UX design or have rich design portfolio
-* The goal of the second task is to identify the general principle in the UX design
-* Your job is to learned the general principle in UX design while verifying the second assumption through an interview:
-   1. Years experience
-   2. How many design made counted by apps
-   3. What is designer philosophy during design process
-   4. Get copy to his/her design items
-   5. Ask whether he/she had a habit to consider control design (the interaction parts)
+**For summary you can see:**
+- [x] Phase 1: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Activity%20Diagram.docx)
+- [x] Phase 2: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Cases%20Narration.docx)
+- [x] Presentasi: [Video](https://youtu.be/I7Y7K_AWm1E)
 
-* Kami melakukan wawancara dengan narasumber design expert yang dapat Anda lihat [disini](https://github.com/rafimir20/kelompok-I-hci/tree/Task-2)
 
-### Contributors
+## Design Apps
+
+1. <p align="center">
+	<img src="https://github.com/rafimir20/kelompok-I-hci/blob/assignment3/Final%20design/FinalDesign1.png">
+	</p>
+
+2. <p align="center">
+	<img src="https://github.com/rafimir20/kelompok-I-hci/blob/assignment3/Final%20design/FinalDesign2.png">
+	</p>
+
+3. <p align="center">
+	<img src="https://github.com/rafimir20/kelompok-I-hci/blob/assignment3/Final%20design/FinalDesign3.png">
+	</p>
+	
+4. <p align="center">
+	<img src="https://github.com/rafimir20/kelompok-I-hci/blob/assignment3/Final%20design/FinalDesign4.png">
+	</p>
+
+5. <p align="center">
+	<img src="https://github.com/rafimir20/kelompok-I-hci/blob/assignment3/Final%20design/FinalDesign5.png">
+	</p>
+	
+6. <p align="center">
+	<img src="https://github.com/rafimir20/kelompok-I-hci/blob/assignment3/Final%20design/FinalDesign6.png">
+	</p>
+	
+7. <p align="center">
+	<img src="https://github.com/rafimir20/kelompok-I-hci/blob/assignment3/Final%20design/FinalDesign7.png">
+	</p>
+
+Di survey yang kita ambil dari 53 peserta, 40 orang berpendapat nikah itu mahal, 43 orang berpendapat bahwa mereka bingung bagaimana mempersiapkan pernikahan, 50 orang tertarik atas bagaimana perencana pernikahan mengelola pernikahan, 51 orang berpendapat menikah memerlukan banyak usaha. 
+Dari survey tersebut bisa disimpulkan bahwa sebagian besar peserta yang mengikuti survey belum siap atau tidak yakin untuk menikah.
+
+## Contributors
 * **Budiarta Eka Wijaya** - Ilmu Komputer 2019 UNJ - [Budiwijaya53](https://github.com/Budiwijaya53)
 * **Muhammad Raffi Athallah Miraza** - Ilmu Komputer UNJ 2019 - [rafimir20](https://github.com/rafimir20)
 * **Pramudio** - Ilmu Komputer UNJ 2019 - [Pramudio](https://github.com/Pramudio-Ilkom)
-
-#### Hak cipta Kelompok I, Ilmu Komputer UNJ Tahun 2019.
