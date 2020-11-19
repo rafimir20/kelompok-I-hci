@@ -22,13 +22,35 @@ Di Indonesia, pernikahan merupakan sesuatu yang sering terdengar, dipestakan, ba
 - [x] Presentasi: [Video](https://youtu.be/I7Y7K_AWm1E)
 
 
-##Design Apps
+## Design Apps
 
 1. <p align="center">
 	<img src="https://github.com/rafimir20/kelompok-I-hci/blob/assignment3/Final%20design/FinalDesign1.png">
 	</p>
 
+2. <p align="center">
+	<img src="https://github.com/rafimir20/kelompok-I-hci/blob/assignment3/Final%20design/FinalDesign2.png">
+	</p>
 
+3. <p align="center">
+	<img src="https://github.com/rafimir20/kelompok-I-hci/blob/assignment3/Final%20design/FinalDesign3.png">
+	</p>
+	
+4. <p align="center">
+	<img src="https://github.com/rafimir20/kelompok-I-hci/blob/assignment3/Final%20design/FinalDesign4.png">
+	</p>
+
+5. <p align="center">
+	<img src="https://github.com/rafimir20/kelompok-I-hci/blob/assignment3/Final%20design/FinalDesign5.png">
+	</p>
+	
+6. <p align="center">
+	<img src="https://github.com/rafimir20/kelompok-I-hci/blob/assignment3/Final%20design/FinalDesign6.png">
+	</p>
+	
+7. <p align="center">
+	<img src="https://github.com/rafimir20/kelompok-I-hci/blob/assignment3/Final%20design/FinalDesign7.png">
+	</p>
 
 ## Contributors
 * **Budiarta Eka Wijaya** - Ilmu Komputer 2019 UNJ - [Budiwijaya53](https://github.com/Budiwijaya53)
