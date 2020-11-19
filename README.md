@@ -19,7 +19,7 @@ Di Indonesia, pernikahan merupakan sesuatu yang sering terdengar, dipestakan, ba
 **For summary you can see:**
 - [x] Phase 1: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Activity%20Diagram.docx)
 - [x] Phase 2: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Cases%20Narration.docx)
-- [x] Presentasi: [Video](https://youtu.be/I7Y7K_AWm1E)
+- [x] Video Presentasi: [Video](https://youtu.be/I7Y7K_AWm1E)
 
 
 ## Design Apps
