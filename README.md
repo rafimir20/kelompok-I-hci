@@ -15,8 +15,8 @@ Merupakan aplikasi Jadwa Belajar untuk para pengguna.
 
 
 **Untuk Source Code dan Database Anda bisa lihat disini:**
-- [x] Source Code: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Activity%20Diagram.docx)
-- [x] Database: [Open](https://github.com/rafimir20/kelompok-I-hci/blob/hw2/Task%201/Cases%20Narration.docx)
+- [x] Source Code: [Open](https://github.com/rafimir20/kelompok-I-hci/tree/finalproject/source%20code)
+- [x] Database: [Open](https://github.com/rafimir20/kelompok-I-hci/tree/finalproject/source%20code/database)
 
 ## Hasil Survei
 
