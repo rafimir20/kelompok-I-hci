@@ -13,12 +13,11 @@ __Jadwal Belajar__
 
 Merupakan aplikasi Jadwa Belajar untuk para pengguna.
 
-
 **Untuk Source Code dan Database Anda bisa lihat disini:**
 - [x] Source Code: [Open](https://github.com/rafimir20/kelompok-I-hci/tree/finalproject/source%20code)
 - [x] Database: [Open](https://github.com/rafimir20/kelompok-I-hci/tree/finalproject/source%20code/database)
 
-## Hasil Survei
+## Hasil Survei Kepuasan
 
 Pada survei yang kita ambil dari 58 pengguna, xx orang berpendapat nikah itu mahal, xx orang berpendapat bahwa mereka xxxxxxxxx, 50 orang tertarik bagaimana xxxxx, xx orang berpendapat xxxxxxxxx 
 Dari survey tersebut bisa disimpulkan bahwa xxxxxxxx
